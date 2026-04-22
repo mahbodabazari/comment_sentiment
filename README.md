@@ -10,6 +10,9 @@
 - در فایل `snappfood.ipynb`، مدل یادگیری عمیق برای طبقه‌بندی احساسات کاربران نسبت به غذا آموزش داده شده است.
 - در فایل `model.ipynb`، مدل نهایی بارگذاری شده و ارزیابی نهایی انجام گرفته است.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/mahbodabazari/comment_sentiment/blob/main/snappfood.ipynb)
+
 ---
 
 # Sentiment Analysis of User Reviews Using Deep Learning
@@ -23,4 +26,7 @@ This project is a user review classification system implemented using deep learn
 - Then, the reviews are automatically labeled as positive or negative using Google Gemini.
 - In `snappfood.ipynb`, a deep learning model is trained to classify the sentiment of food-related reviews.
 - Finally, in `model.ipynb`, the trained model is loaded and evaluated.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/mahbodabazari/comment_sentiment/blob/main/snappfood.ipynb)
 
